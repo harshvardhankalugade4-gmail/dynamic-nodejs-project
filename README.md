@@ -65,3 +65,19 @@ Start the application:
 
 ```bash
 sudo pm2 start app.js
+```
+## 📸 Project Screenshots
+
+### ☁️ AWS EC2 Instance
+
+![AWS EC2 Instance](./ec2-instance.png)
+
+### 🔐 AWS Security Group
+
+![AWS Security Group](./AWS%20security%20group.png)
+
+### ⚙️ PM2 Application Status
+![PM2 Application Status](PM2%20Status.png)
+
+### 🌐 Node.js Application Output
+![Node.js Application Output](Browser%20Output.png)
