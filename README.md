@@ -74,7 +74,7 @@ sudo pm2 start app.js
 
 ### 🔐 AWS Security Group
 
-![AWS Security Group](./AWS%20security%20group.png)
+![EC2 Security Group Configuration](./ec2-security-rules.png)
 
 ### ⚙️ PM2 Application Status
 ![PM2 Application Status](PM2%20Status.png)
